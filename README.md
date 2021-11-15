@@ -1,5 +1,6 @@
 # estudo_de_timbre_e_envelopes_sonoros
 Código do projeto de conclusão de curso: Estudo de Timbres e Envelopes Sonoros
+Projeto Lineciado segundo os termos da Universidade de São Paulo - USP
 
 Código em python 3 está disponóvel no arquivo "code.py"
 O manual do código dispõe de duas versões, uma em html outra diretamente no arquivo de jupyter notebook
